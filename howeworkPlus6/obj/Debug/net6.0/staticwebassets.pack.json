@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\default.html",
+      "PackagePath": "staticwebassets\\default.html"
+    },
+    {
+      "Id": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\src\\index.js",
+      "PackagePath": "staticwebassets\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\src\\styles.css",
+      "PackagePath": "staticwebassets\\src\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.howeworkPlus6.props",
+      "PackagePath": "build\\howeworkPlus6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.howeworkPlus6.props",
+      "PackagePath": "buildMultiTargeting\\howeworkPlus6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.howeworkPlus6.props",
+      "PackagePath": "buildTransitive\\howeworkPlus6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.howeworkPlus6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

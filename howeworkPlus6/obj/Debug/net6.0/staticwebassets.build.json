@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "xfIfwuQbHoC2w8JWnNZhdklu2DPrdsXVM3gkKiDc+AM=",
+  "Source": "howeworkPlus6",
+  "BasePath": "_content/howeworkPlus6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "howeworkPlus6\\wwwroot",
+      "Source": "howeworkPlus6",
+      "ContentRoot": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\",
+      "BasePath": "_content/howeworkPlus6",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\default.html",
+      "SourceId": "howeworkPlus6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\",
+      "BasePath": "_content/howeworkPlus6",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    },
+    {
+      "Identity": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\src\\index.js",
+      "SourceId": "howeworkPlus6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\",
+      "BasePath": "_content/howeworkPlus6",
+      "RelativePath": "src/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\src\\styles.css",
+      "SourceId": "howeworkPlus6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahsa\\source\\repos\\howeworkPlus6\\howeworkPlus6\\wwwroot\\",
+      "BasePath": "_content/howeworkPlus6",
+      "RelativePath": "src/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\styles.css"
+    }
+  ]
+}
